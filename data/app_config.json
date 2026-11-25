@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "app": {
     "minVersionCode": 1,
     "latestVersionCode": 1,
@@ -26,12 +26,30 @@
     "shakeToRandom": true
   },
   "tabs": [
-    { "id": "categories", "visible": true },
-    { "id": "random", "visible": true },
-    { "id": "trending", "visible": true },
-    { "id": "latest", "visible": true },
-    { "id": "favorites", "visible": true },
-    { "id": "more_apps", "visible": true }
+    {
+      "id": "categories",
+      "visible": true
+    },
+    {
+      "id": "random",
+      "visible": true
+    },
+    {
+      "id": "trending",
+      "visible": true
+    },
+    {
+      "id": "latest",
+      "visible": true
+    },
+    {
+      "id": "favorites",
+      "visible": true
+    },
+    {
+      "id": "more_apps",
+      "visible": true
+    }
   ],
   "links": {
     "privacy": "https://pixelblues.github.io/LittleFairyWallpaper/privacy",
@@ -41,12 +59,11 @@
   },
   "defaultThemeId": "neon_pink",
   "fileVersions": {
-    "wallpapers": 1,
-    "categories": 1,
+    "wallpapers": 2,
+    "categories": 2,
     "ads": 1,
     "moreApps": 1,
     "themes": 1,
     "notifications": 1
   }
 }
-
