@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "app": {
+    "minVersionCode": 1,
+    "latestVersionCode": 1,
+    "forceUpdate": false,
+    "updateUrl": "https://play.google.com/store/apps/details?id=com.pixelblues.littlefairy",
+    "maintenance": {
+      "enabled": false,
+      "message": ""
+    }
+  },
+  "premium": {
+    "unlockDurationHours": 72,
+    "unlockScope": "single",
+    "rewardedRequired": true
+  },
+  "features": {
+    "trending": true,
+    "favorites": true,
+    "search": true,
+    "autoChanger": true,
+    "parallax3d": true,
+    "moreApps": true,
+    "dailyStreak": false,
+    "shakeToRandom": true
+  },
+  "tabs": [
+    { "id": "categories", "visible": true },
+    { "id": "random", "visible": true },
+    { "id": "trending", "visible": true },
+    { "id": "latest", "visible": true },
+    { "id": "favorites", "visible": true },
+    { "id": "more_apps", "visible": true }
+  ],
+  "links": {
+    "privacy": "https://pixelblues.github.io/LittleFairyWallpaper/privacy",
+    "terms": "https://pixelblues.github.io/LittleFairyWallpaper/terms",
+    "playStore": "https://play.google.com/store/apps/details?id=com.pixelblues.littlefairy",
+    "contactEmail": "support@pixelblues.example"
+  },
+  "defaultThemeId": "neon_pink",
+  "fileVersions": {
+    "wallpapers": 1,
+    "categories": 1,
+    "ads": 1,
+    "moreApps": 1,
+    "themes": 1,
+    "notifications": 1
+  }
+}
+

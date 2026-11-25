@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "themes": [
+    {
+      "id": "neon_pink",
+      "name": "Neon Pink",
+      "premium": false,
+      "enabled": true,
+      "isDark": true,
+      "colors": {
+        "primary": "#D6407A",
+        "onPrimary": "#FFFFFF",
+        "secondary": "#7C4DFF",
+        "background": "#0F0B1A",
+        "surface": "#1A1530",
+        "onSurface": "#FFFFFF",
+        "accent": "#00E5FF"
+      },
+      "gradient": ["#D6407A", "#7C4DFF"],
+      "cornerRadius": 24,
+      "cardElevation": 12
+    },
+    {
+      "id": "aurora_cyan",
+      "name": "Aurora Cyan",
+      "premium": false,
+      "enabled": true,
+      "isDark": true,
+      "colors": {
+        "primary": "#00E5FF",
+        "onPrimary": "#041C24",
+        "secondary": "#00BFA5",
+        "background": "#071318",
+        "surface": "#0F222A",
+        "onSurface": "#EAF9FF",
+        "accent": "#64FFDA"
+      },
+      "gradient": ["#00E5FF", "#00BFA5"],
+      "cornerRadius": 24,
+      "cardElevation": 12
+    },
+    {
+      "id": "midnight_gold",
+      "name": "Midnight Gold",
+      "premium": true,
+      "enabled": true,
+      "isDark": true,
+      "colors": {
+        "primary": "#FFB300",
+        "onPrimary": "#1C1400",
+        "secondary": "#FF6F00",
+        "background": "#0B0B10",
+        "surface": "#171722",
+        "onSurface": "#FFF8E1",
+        "accent": "#FFD54F"
+      },
+      "gradient": ["#FFB300", "#FF6F00"],
+      "cornerRadius": 22,
+      "cardElevation": 14
+    },
+    {
+      "id": "cyber_violet",
+      "name": "Cyber Violet",
+      "premium": true,
+      "enabled": true,
+      "isDark": true,
+      "colors": {
+        "primary": "#A855F7",
+        "onPrimary": "#FFFFFF",
+        "secondary": "#EC4899",
+        "background": "#0D0716",
+        "surface": "#19102A",
+        "onSurface": "#F5F3FF",
+        "accent": "#38BDF8"
+      },
+      "gradient": ["#A855F7", "#EC4899"],
+      "cornerRadius": 26,
+      "cardElevation": 14
+    }
+  ]
+}
+

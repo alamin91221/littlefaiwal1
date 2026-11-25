@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "notifications": [
+    {
+      "id": "notif_welcome",
+      "title": "Welcome to Little Fairy 2.0",
+      "message": "Try 3D parallax preview and dynamic themes in Settings!",
+      "imageUrl": "",
+      "actionUrl": "",
+      "enabled": true
+    }
+  ]
+}
+
