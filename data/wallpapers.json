@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "wallpapers": [
     {
       "id": "wp_mwwdmtj6_q9kj",
@@ -49,14 +49,15 @@
       "thumbUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwdmtgp_z1zi.webp",
       "previewUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwdmtgp_z1zi.webp",
       "fullUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwdmtgp_z1zi.webp",
-      "premium": false,
+      "premium": true,
       "trendingScore": 50,
       "downloads": 0,
       "addedAt": "2026-11-25T17:07:42.165Z",
       "enabled": true,
       "resolution": "720x1280",
       "dominantColor": "#DBB7B9",
-      "safeSearch": true
+      "safeSearch": true,
+      "trending": true
     },
     {
       "id": "wp_mwwdmtep_pn01",
@@ -68,14 +69,15 @@
       "thumbUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwdmtep_pn01.webp",
       "previewUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwdmtep_pn01.webp",
       "fullUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwdmtep_pn01.webp",
-      "premium": false,
+      "premium": true,
       "trendingScore": 50,
       "downloads": 0,
       "addedAt": "2026-11-25T17:07:42.121Z",
       "enabled": true,
       "resolution": "720x1280",
       "dominantColor": "#6A95B2",
-      "safeSearch": true
+      "safeSearch": true,
+      "trending": true
     },
     {
       "id": "wp_mwwdmtcx_oxjk",
@@ -106,7 +108,7 @@
       "thumbUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwdmtb2_xdba.webp",
       "previewUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwdmtb2_xdba.webp",
       "fullUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwdmtb2_xdba.webp",
-      "premium": false,
+      "premium": true,
       "trendingScore": 50,
       "downloads": 0,
       "addedAt": "2026-11-25T17:07:41.985Z",
