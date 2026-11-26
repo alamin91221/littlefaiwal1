@@ -1,6 +1,346 @@
 {
-  "version": 10,
+  "version": 11,
   "wallpapers": [
+    {
+      "id": "wp_mwwyk213_lo3s",
+      "title": "lfw (74)",
+      "categoryId": "cat_mwwczcom",
+      "tags": [
+        "new"
+      ],
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk213_lo3s.webp",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk213_lo3s.webp",
+      "fullUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk213_lo3s.webp",
+      "premium": false,
+      "trending": false,
+      "trendingScore": 50,
+      "downloads": 0,
+      "addedAt": "2026-11-26T02:53:25.240Z",
+      "enabled": true,
+      "resolution": "720x1280",
+      "dominantColor": "#894771",
+      "safeSearch": true
+    },
+    {
+      "id": "wp_mwwyk1zo_ghdu",
+      "title": "lfw (73)",
+      "categoryId": "cat_mwwczcom",
+      "tags": [
+        "new"
+      ],
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1zo_ghdu.webp",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1zo_ghdu.webp",
+      "fullUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1zo_ghdu.webp",
+      "premium": true,
+      "trending": false,
+      "trendingScore": 50,
+      "downloads": 0,
+      "addedAt": "2026-11-26T02:53:25.191Z",
+      "enabled": true,
+      "resolution": "720x1280",
+      "dominantColor": "#D0A479",
+      "safeSearch": true
+    },
+    {
+      "id": "wp_mwwyk1yc_7y3o",
+      "title": "lfw (72)",
+      "categoryId": "cat_mwwczcom",
+      "tags": [
+        "new"
+      ],
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1yc_7y3o.webp",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1yc_7y3o.webp",
+      "fullUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1yc_7y3o.webp",
+      "premium": false,
+      "trending": true,
+      "trendingScore": 50,
+      "downloads": 0,
+      "addedAt": "2026-11-26T02:53:25.140Z",
+      "enabled": true,
+      "resolution": "720x1280",
+      "dominantColor": "#604D63",
+      "safeSearch": true
+    },
+    {
+      "id": "wp_mwwyk1wt_5kx6",
+      "title": "lfw (71)",
+      "categoryId": "cat_mwwczcom",
+      "tags": [
+        "new"
+      ],
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1wt_5kx6.webp",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1wt_5kx6.webp",
+      "fullUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1wt_5kx6.webp",
+      "premium": false,
+      "trending": true,
+      "trendingScore": 50,
+      "downloads": 0,
+      "addedAt": "2026-11-26T02:53:25.091Z",
+      "enabled": true,
+      "resolution": "720x1280",
+      "dominantColor": "#705D37",
+      "safeSearch": true
+    },
+    {
+      "id": "wp_mwwyk1vk_4m99",
+      "title": "lfw (70)",
+      "categoryId": "cat_mwwczcom",
+      "tags": [
+        "new"
+      ],
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1vk_4m99.webp",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1vk_4m99.webp",
+      "fullUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1vk_4m99.webp",
+      "premium": false,
+      "trending": false,
+      "trendingScore": 50,
+      "downloads": 0,
+      "addedAt": "2026-11-26T02:53:25.037Z",
+      "enabled": true,
+      "resolution": "720x1280",
+      "dominantColor": "#D2ACA2",
+      "safeSearch": true
+    },
+    {
+      "id": "wp_mwwyk1u6_y7y1",
+      "title": "lfw (69)",
+      "categoryId": "cat_mwwczcom",
+      "tags": [
+        "new"
+      ],
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1u6_y7y1.webp",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1u6_y7y1.webp",
+      "fullUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1u6_y7y1.webp",
+      "premium": true,
+      "trending": true,
+      "trendingScore": 50,
+      "downloads": 0,
+      "addedAt": "2026-11-26T02:53:24.992Z",
+      "enabled": true,
+      "resolution": "720x1280",
+      "dominantColor": "#67371F",
+      "safeSearch": true
+    },
+    {
+      "id": "wp_mwwyk1sq_2fzh",
+      "title": "lfw (68)",
+      "categoryId": "cat_mwwczcom",
+      "tags": [
+        "new"
+      ],
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1sq_2fzh.webp",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1sq_2fzh.webp",
+      "fullUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1sq_2fzh.webp",
+      "premium": false,
+      "trending": false,
+      "trendingScore": 50,
+      "downloads": 0,
+      "addedAt": "2026-11-26T02:53:24.942Z",
+      "enabled": true,
+      "resolution": "720x1280",
+      "dominantColor": "#9A7D72",
+      "safeSearch": true
+    },
+    {
+      "id": "wp_mwwyk1rf_56dp",
+      "title": "lfw (67)",
+      "categoryId": "cat_mwwczcom",
+      "tags": [
+        "new"
+      ],
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1rf_56dp.webp",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1rf_56dp.webp",
+      "fullUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1rf_56dp.webp",
+      "premium": false,
+      "trending": false,
+      "trendingScore": 50,
+      "downloads": 0,
+      "addedAt": "2026-11-26T02:53:24.890Z",
+      "enabled": true,
+      "resolution": "720x1280",
+      "dominantColor": "#D0C1BC",
+      "safeSearch": true
+    },
+    {
+      "id": "wp_mwwyk1pz_mfo2",
+      "title": "lfw (66)",
+      "categoryId": "cat_mwwczcom",
+      "tags": [
+        "new"
+      ],
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1pz_mfo2.webp",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1pz_mfo2.webp",
+      "fullUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1pz_mfo2.webp",
+      "premium": false,
+      "trending": false,
+      "trendingScore": 50,
+      "downloads": 0,
+      "addedAt": "2026-11-26T02:53:24.843Z",
+      "enabled": true,
+      "resolution": "720x1280",
+      "dominantColor": "#443262",
+      "safeSearch": true
+    },
+    {
+      "id": "wp_mwwyk1oi_5d2w",
+      "title": "lfw (65)",
+      "categoryId": "cat_mwwczcom",
+      "tags": [
+        "new"
+      ],
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1oi_5d2w.webp",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1oi_5d2w.webp",
+      "fullUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1oi_5d2w.webp",
+      "premium": true,
+      "trending": false,
+      "trendingScore": 50,
+      "downloads": 0,
+      "addedAt": "2026-11-26T02:53:24.791Z",
+      "enabled": true,
+      "resolution": "720x1280",
+      "dominantColor": "#C48C5C",
+      "safeSearch": true
+    },
+    {
+      "id": "wp_mwwyk1n2_5h22",
+      "title": "lfw (64)",
+      "categoryId": "cat_mwwczcom",
+      "tags": [
+        "new"
+      ],
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1n2_5h22.webp",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1n2_5h22.webp",
+      "fullUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1n2_5h22.webp",
+      "premium": true,
+      "trending": true,
+      "trendingScore": 50,
+      "downloads": 0,
+      "addedAt": "2026-11-26T02:53:24.738Z",
+      "enabled": true,
+      "resolution": "720x1280",
+      "dominantColor": "#92756C",
+      "safeSearch": true
+    },
+    {
+      "id": "wp_mwwyk1lo_ozu9",
+      "title": "lfw (63)",
+      "categoryId": "cat_mwwczcom",
+      "tags": [
+        "new"
+      ],
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1lo_ozu9.webp",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1lo_ozu9.webp",
+      "fullUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1lo_ozu9.webp",
+      "premium": false,
+      "trending": false,
+      "trendingScore": 50,
+      "downloads": 0,
+      "addedAt": "2026-11-26T02:53:24.686Z",
+      "enabled": true,
+      "resolution": "720x1280",
+      "dominantColor": "#C59BAA",
+      "safeSearch": true
+    },
+    {
+      "id": "wp_mwwyk1ka_ccm3",
+      "title": "lfw (62)",
+      "categoryId": "cat_mwwczcom",
+      "tags": [
+        "new"
+      ],
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1ka_ccm3.webp",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1ka_ccm3.webp",
+      "fullUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1ka_ccm3.webp",
+      "premium": true,
+      "trending": false,
+      "trendingScore": 50,
+      "downloads": 0,
+      "addedAt": "2026-11-26T02:53:24.636Z",
+      "enabled": true,
+      "resolution": "720x1280",
+      "dominantColor": "#7F7A5A",
+      "safeSearch": true
+    },
+    {
+      "id": "wp_mwwyk1ik_pt4k",
+      "title": "lfw (61)",
+      "categoryId": "cat_mwwczcom",
+      "tags": [
+        "new"
+      ],
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1ik_pt4k.webp",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1ik_pt4k.webp",
+      "fullUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1ik_pt4k.webp",
+      "premium": false,
+      "trending": false,
+      "trendingScore": 50,
+      "downloads": 0,
+      "addedAt": "2026-11-26T02:53:24.585Z",
+      "enabled": true,
+      "resolution": "720x1280",
+      "dominantColor": "#683D2F",
+      "safeSearch": true
+    },
+    {
+      "id": "wp_mwwyk1gy_6e13",
+      "title": "lfw (60)",
+      "categoryId": "cat_mwwczcom",
+      "tags": [
+        "new"
+      ],
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1gy_6e13.webp",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1gy_6e13.webp",
+      "fullUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1gy_6e13.webp",
+      "premium": true,
+      "trending": false,
+      "trendingScore": 50,
+      "downloads": 0,
+      "addedAt": "2026-11-26T02:53:24.523Z",
+      "enabled": true,
+      "resolution": "720x1280",
+      "dominantColor": "#87733D",
+      "safeSearch": true
+    },
+    {
+      "id": "wp_mwwyk1et_htpi",
+      "title": "lfw (59)",
+      "categoryId": "cat_mwwczcom",
+      "tags": [
+        "new"
+      ],
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1et_htpi.webp",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1et_htpi.webp",
+      "fullUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1et_htpi.webp",
+      "premium": false,
+      "trending": true,
+      "trendingScore": 50,
+      "downloads": 0,
+      "addedAt": "2026-11-26T02:53:24.466Z",
+      "enabled": true,
+      "resolution": "720x1280",
+      "dominantColor": "#DDB5B6",
+      "safeSearch": true
+    },
+    {
+      "id": "wp_mwwyk1d9_7u3e",
+      "title": "lfw (58)",
+      "categoryId": "cat_mwwczcom",
+      "tags": [
+        "new"
+      ],
+      "thumbUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1d9_7u3e.webp",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1d9_7u3e.webp",
+      "fullUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/wallpapers/wp_mwwyk1d9_7u3e.webp",
+      "premium": true,
+      "trending": true,
+      "trendingScore": 50,
+      "downloads": 0,
+      "addedAt": "2026-11-26T02:53:24.389Z",
+      "enabled": true,
+      "resolution": "720x1280",
+      "dominantColor": "#D7B2B7",
+      "safeSearch": true
+    },
     {
       "id": "wp_mwwyi9i0_814s",
       "title": "lfw (57)",
