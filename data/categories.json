@@ -1,11 +1,19 @@
 {
-  "version": 2,
+  "version": 3,
   "categories": [
     {
       "id": "cat_mwwczcom",
       "name": "Little Fairy01",
       "coverUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/categories/cat_mwwczcom_mwwd05gm.webp",
       "order": 1,
+      "enabled": true,
+      "premiumOnly": false
+    },
+    {
+      "id": "cat_mwwzcofr",
+      "name": "Little Fairy02",
+      "coverUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/categories/cat_mwwzcofr_mwwzd9ov.webp",
+      "order": 2,
       "enabled": true,
       "premiumOnly": false
     }

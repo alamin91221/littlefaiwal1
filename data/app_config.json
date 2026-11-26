@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "app": {
     "minVersionCode": 1,
     "latestVersionCode": 1,
@@ -60,7 +60,7 @@
   "defaultThemeId": "neon_pink",
   "fileVersions": {
     "wallpapers": 16,
-    "categories": 2,
+    "categories": 3,
     "ads": 1,
     "moreApps": 1,
     "themes": 1,
