@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "adsEnabled": true,
   "testMode": true,
   "ids": {
@@ -21,7 +21,7 @@
   "interstitial": {
     "enabled": true,
     "showEveryNActions": 3,
-    "minSecondsBetween": 30,
+    "minSecondsBetween": 5,
     "placements": [
       "set_wallpaper",
       "download",
@@ -35,7 +35,7 @@
   },
   "appOpen": {
     "enabled": true,
-    "cooldownMinutes": 5
+    "cooldownMinutes": 0
   },
   "rewarded": {
     "enabled": true
