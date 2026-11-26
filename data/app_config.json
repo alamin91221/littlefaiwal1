@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "app": {
     "minVersionCode": 1,
     "latestVersionCode": 1,
@@ -62,7 +62,7 @@
     "wallpapers": 21,
     "categories": 3,
     "ads": 2,
-    "moreApps": 3,
+    "moreApps": 4,
     "themes": 1,
     "notifications": 1
   }

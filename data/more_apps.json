@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "apps": [
     {
       "id": "app_001",
@@ -46,6 +46,78 @@
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.nilashawallpaperapp&hl=en",
       "rating": 4.6,
       "order": 4,
+      "visible": true,
+      "featured": false
+    },
+    {
+      "id": "app_mwx5v09h",
+      "name": "8D Music Player Pro",
+      "shortDescription": "8D Music Player Pro – Music with Immersive Audio Effects",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/apps/app_mwx5v09h_icon_mwx5vjlz.webp",
+      "bannerUrl": "",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nilasharafi.eightdmusicplayerpro&hl=en",
+      "rating": 4.8,
+      "order": 5,
+      "visible": true,
+      "featured": false
+    },
+    {
+      "id": "app_mwx5vqvm",
+      "name": "Sad Anime Wallpaper 4K HD",
+      "shortDescription": "Express your feelings with the most emotional collection of high-quality sad anime wallpapers.",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/apps/app_mwx5vqvm_icon_mwx5waxl.webp",
+      "bannerUrl": "",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.nilashasadanime&hl=en",
+      "rating": 4.8,
+      "order": 6,
+      "visible": true,
+      "featured": false
+    },
+    {
+      "id": "app_mwx5wjqm",
+      "name": "VidReduce: Video Converter",
+      "shortDescription": "VidReduce – All-in-One Audio & Video Studio",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/apps/app_mwx5wjqm_icon_mwx5x8ej.webp",
+      "bannerUrl": "",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nilasha.mediaforge&hl=en",
+      "rating": 4.8,
+      "order": 7,
+      "visible": true,
+      "featured": false
+    },
+    {
+      "id": "app_mwx5xew6",
+      "name": "Anime Girl Wallpapers 4K HD",
+      "shortDescription": "Transform your phone with the ultimate collection of high-quality anime girl wallpapers!",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/apps/app_mwx5xew6_icon_mwx5xy9l.webp",
+      "bannerUrl": "",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nilasha.animegirl&hl=en",
+      "rating": 4.8,
+      "order": 8,
+      "visible": true,
+      "featured": false
+    },
+    {
+      "id": "app_mwx5y53k",
+      "name": "Anime Wallpapers 4K: Aesthetic",
+      "shortDescription": "Elevate your screen with the ultimate collection of 4K Anime Wallpapers!",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/apps/app_mwx5y53k_icon_mwx5yonn.webp",
+      "bannerUrl": "",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.japannilashawallpaperapp&hl=en",
+      "rating": 4.8,
+      "order": 9,
+      "visible": true,
+      "featured": false
+    },
+    {
+      "id": "app_mwx5yuyd",
+      "name": "AnimeVibe AMOLED Wallpapers",
+      "shortDescription": "AnimeVibe Wallpaper – HD, 4K & AMOLED Anime Wallpapers",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/alamin91221/littlefaiwal1@main/images/apps/app_mwx5yuyd_icon_mwx5zga6.webp",
+      "bannerUrl": "",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nilasha.animevibe&hl=en",
+      "rating": 4.8,
+      "order": 10,
       "visible": true,
       "featured": false
     }
