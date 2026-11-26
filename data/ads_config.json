@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "adsEnabled": true,
   "testMode": true,
   "ids": {
@@ -13,17 +13,25 @@
   },
   "banner": {
     "enabled": true,
-    "placements": ["home", "detail"]
+    "placements": [
+      "home",
+      "detail"
+    ]
   },
   "interstitial": {
     "enabled": true,
     "showEveryNActions": 4,
-    "minSecondsBetween": 60,
-    "placements": ["set_wallpaper", "download", "back_from_detail"]
+    "minSecondsBetween": 30,
+    "placements": [
+      "set_wallpaper",
+      "download",
+      "back_from_detail"
+    ]
   },
   "native": {
     "enabled": true,
-    "everyNItems": 8
+    "everyNItems": 10,
+    "firstAfterItems": 6
   },
   "appOpen": {
     "enabled": true,
@@ -37,4 +45,3 @@
   },
   "hideAdsForPremiumUsers": true
 }
-
