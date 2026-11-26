@@ -1,13 +1,13 @@
 {
-  "version": 1,
+  "version": 2,
   "apps": [
     {
       "id": "app_001",
-      "name": "PixelNotes Pro",
-      "shortDescription": "Minimalist markdown notes with instant cloud sync and widgets.",
+      "name": "Muziko: Stream & Play Music",
+      "shortDescription": "Discover a World of Unique Sounds with Muziko",
       "iconUrl": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=256&q=80",
       "bannerUrl": "https://images.unsplash.com/photo-1557683316-973673baf926?w=1080&q=80",
-      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pixelblues.pixelnotes",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.muziko.rafinilasha&hl=en",
       "rating": 4.8,
       "order": 1,
       "visible": true,
@@ -15,11 +15,11 @@
     },
     {
       "id": "app_002",
-      "name": "Fairy Icon Pack",
-      "shortDescription": "2,500+ handcrafted neon & glassmorphic icons for Android launchers.",
+      "name": "8D Video Player – Media Player",
+      "shortDescription": "8D Video Player – Enjoy Videos with an Immersive Audio Experience",
       "iconUrl": "https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=256&q=80",
       "bannerUrl": "",
-      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pixelblues.fairyicons",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nilasharafi.eightdvideoplayer&hl=en",
       "rating": 4.7,
       "order": 2,
       "visible": true,
@@ -51,4 +51,3 @@
     }
   ]
 }
-
