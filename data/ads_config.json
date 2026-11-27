@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "adsEnabled": false,
+  "adsEnabled": true,
   "testMode": true,
   "ids": {
     "appId": "ca-app-pub-3940256099942544~3347511713",
